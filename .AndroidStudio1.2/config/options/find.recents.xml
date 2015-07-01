@@ -1,0 +1,9 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>setInputType</find>
+      <find>toast</find>
+      <find>findViewById</find>
+    </findStrings>
+  </component>
+</application>
