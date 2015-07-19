@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="pref_metric"
+        android:title="@string/pref_title"
+        android:defaultValue="true" />
+    <EditTextPreference
+        android:key="pref_location"
+        android:title="ZIP Code"
+        android:dialogTitle="dialog_title_edittext_preference" />
+
+</PreferenceScreen>
